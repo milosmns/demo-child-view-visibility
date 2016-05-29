@@ -1,0 +1,26 @@
+<resources locale="en">
+
+    <string name="app_name">Visibility Demo</string>
+    <string name="app_desc">This app demonstrates how Android ViewGroup handles different visibility modes.</string>
+
+    <string name="set_visibility_gone">Set to Gone</string>
+    <string name="set_visibility_visible">Set to Visible</string>
+    <string name="set_visibility_invisible">Set to Invisible</string>
+    <string name="set_visibility_remove_layout">Remove from Layout</string>
+
+    <string name="container_xml">This container is changed from XML</string>
+    <string name="container_java">This container is changed from Java</string>
+
+    <string name="container_one">First container is %s</string>
+    <string name="container_two">Second container is %s</string>
+    <string name="container_one_child_one">Child one (first container) is %s</string>
+    <string name="container_one_child_two">Child two (first container) is %s</string>
+    <string name="container_two_child_one">Child one (second container) is %s</string>
+    <string name="container_two_child_two">Child two (second container) is %s</string>
+
+    <string name="gone">Gone</string>
+    <string name="visible">Visible</string>
+    <string name="invisible">Invisible</string>
+    <string name="not_in_layout">Not in layout</string>
+
+</resources>

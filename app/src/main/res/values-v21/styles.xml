@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor" tools:ignore="PrivateResource">@color/background_material_dark</item>
+        <item name="android:colorBackground" tools:ignore="PrivateResource">@color/background_material_dark</item>
+        <item name="android:colorForeground" tools:ignore="PrivateResource">@color/foreground_material_dark</item>
+        <item name="android:textColorPrimary">@color/primary_text_material_dark</item>
+
+    </style>
+
+</resources>
