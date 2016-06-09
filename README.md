@@ -11,6 +11,8 @@ Details
 If you set the visibility flag on any ViewGroup in Android, that visibility flag will not be propagated to that ViewGroup's children.
 This *demo* app does the XML setup for `GONE`, `INVISIBLE`, and `VISIBLE`, as well as Java tests for the same set of flags.
 
+If you want to quickly test the APK, [download it from here](https://github.com/milosmns/demo-child-view-visibility/blob/master/resources/Visibility-Demo.apk?raw=true).
+
 ![Screenshot](https://raw.githubusercontent.com/milosmns/demo-child-view-visibility/master/resources/Screenshot-Mobile.png)
 
 More information
